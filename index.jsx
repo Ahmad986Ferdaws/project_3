@@ -3,8 +3,7 @@
 // Description: A minimalist React app to write, store, and display daily journal entries
 
 import { useState } from 'react';
-aaaa
-export default function App() {
+aaa
   const [entries, setEntries] = useState([]);
   const [text, setText] = useState('');
 
