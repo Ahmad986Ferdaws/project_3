@@ -29,7 +29,7 @@ import { useState } from 'react';
         onClick={addEntry}
       >
         Add Entry
-      </button>
+      </button>aaaaaa
 
       <div className="mt-6 space-y-4">
         {entries.map(entry => (
