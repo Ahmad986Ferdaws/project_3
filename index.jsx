@@ -12,7 +12,7 @@ import { useState } from 'react';
       setEntries([{ id: Date.now(), content: text }, ...entries]);
       setText('');
     }
-  };
+  };aaaaa
 
   return (
     <div className="min-h-screen bg-gray-100 p-6">
